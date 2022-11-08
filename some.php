@@ -2,5 +2,5 @@
 
 echo "hello world";
 echo "hi girl";
-echo "what the man";
+echo "what the view";
 ?>
